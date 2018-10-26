@@ -2,7 +2,7 @@
 
 "A Byte of Python" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Pition tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'sangiz, demak bu kitob siz uchun.
 
-## For Python version 3
+## Piton 3 talqini uchun
 
 This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
 
