@@ -1,6 +1,6 @@
 # A Byte of Python
 
-"A Byte of Python" bu Piton dasturlash tili haqidagi bepul kitobdir. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
+"A Byte of Python" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
 
 ## For Python version 3
 
