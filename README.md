@@ -1,6 +1,6 @@
 # Pitonning bir bayti
-![](/assets/cats1 (2).png)
-"A Byte of Python" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Pition tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'sangiz, demak bu kitob siz uchun.
+
+"Pitonning bir bayti" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Pition tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'sangiz, demak bu kitob siz uchun.
 
 ## Piton 3 talqini uchun
 
