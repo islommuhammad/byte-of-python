@@ -4,7 +4,7 @@
 
 ## Piton 3 talqini uchun
 
-This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
+BU kitob sizni Pitonning 3 talqinidan foydalanishni o'rgatadi. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
 
 ## Who reads A Byte of Python? {#who-reads-bop}
 
