@@ -1,10 +1,10 @@
 # Pitonning bir bayti
 
-"Pitonning bir bayti" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Pition tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'lsangiz, demak bu kitob siz uchun.
+"Pitonning bir bayti" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Piton tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'lsangiz, demak bu kitob siz uchun.
 
 ## Piton 3 talqini uchun
 
-BU kitob sizni Pitonning 3 talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga msolashish uchun qo'llanma bo'ladi.
+Bu kitob sizni Pitonning 3-talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga msolashish uchun qo'llanma bo'ladi.
 
 ## Pitonning bir baytini kimlar o'qiydi? {#who-reads-bop}
 
