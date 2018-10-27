@@ -15,7 +15,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> The best thing i found was "A Byte of Python", which is simply a brilliant book for a beginner. It's well written, the concepts are well explained with self evident examples.
+> Soddagina bu qimmatbaho kitob men topgan narsalar ichida eng zo'ridir. U yaxshi yozilgan, tushunchalar aniq misollar orqli tushuntirilgan.
 > -- [Joshua Robin](mailto:joshrob@poczta.onet.pl)
 
 <!-- -->
