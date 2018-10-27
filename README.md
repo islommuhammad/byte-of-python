@@ -4,7 +4,7 @@
 
 ## Piton 3 talqini uchun
 
-Bu kitob sizni Pitonning 3-talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga msolashish uchun qo'llanma bo'ladi.
+Bu kitob sizni Pitonning 3-talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga moslashish uchun qo'llanma bo'ladi.
 
 ## Pitonning bir baytini kimlar o'qiydi? {#who-reads-bop}
 
