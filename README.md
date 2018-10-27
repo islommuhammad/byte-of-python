@@ -1,12 +1,12 @@
-# Pitonning bir bayti
+# Pythonning bir bayti
 
-"Pitonning bir bayti" bu Piton dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Piton tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'lsangiz, demak bu kitob siz uchun.
+"Pythonning bir bayti" bu Python (oʻqilishi paytn) dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Python tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'lsangiz, demak bu kitob siz uchun.
 
-## Piton 3 talqini uchun
+## Python 3 talqini uchun
 
-Bu kitob sizni Pitonning 3-talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga moslashish uchun qo'llanma bo'ladi.
+Bu kitob sizni Pythonning 3-talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pythonning eskiroq va ko'proq foydalaniladigan 2-talqiniga moslashish uchun qo'llanma bo'ladi.
 
-## Pitonning bir baytini kimlar o'qiydi? {#who-reads-bop}
+## Pythonning bir baytini kimlar o'qiydi? {#who-reads-bop}
 
 Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
@@ -20,17 +20,17 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> Boshlovchilar uchun Piton tiliga ajoyib kirish.
+> Boshlovchilar uchun Python tiliga ajoyib kirish.
 > -- [Shan Rajasekaran](https://twitter.com/ShanRajasekaran/status/268910645842423809)
 
 <!-- -->
 
-> Piton haqida ajoyib yangi qo'llanma
+> Python haqida ajoyib yangi qo'llanma
 > -- [Nickson Kaigi](https://twitter.com/nickaigi/status/175508815729541120)
 
 <!-- -->
 
-> Har bir sahifasini o'qib pitonni yoqtirib bormoqdaman.
+> Har bir sahifasini o'qib Pythonni yoqtirib bormoqdaman.
 > -- [Herbert Feutl](https://twitter.com/HerbertFeutl/status/11901471389913088)
 
 <!-- -->
