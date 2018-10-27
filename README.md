@@ -4,7 +4,7 @@
 
 ## Piton 3 talqini uchun
 
-BU kitob sizni Pitonning 3 talqinidan foydalanishni o'rgatadi. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
+BU kitob sizni Pitonning 3 talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga msolashish uchun qo'llanma bo'ladi.
 
 ## Who reads A Byte of Python? {#who-reads-bop}
 
