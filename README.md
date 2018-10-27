@@ -20,17 +20,17 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> Excellent gentle introduction to programming #Python for beginners
+> Boshlovchilar uchun Piton tiliga ajoyib kirish.
 > -- [Shan Rajasekaran](https://twitter.com/ShanRajasekaran/status/268910645842423809)
 
 <!-- -->
 
-> Best newbie guide to python
+> Piton haqida ajoyib yangi qo'llanma
 > -- [Nickson Kaigi](https://twitter.com/nickaigi/status/175508815729541120)
 
 <!-- -->
 
-> start to love python with every single page read
+> Har bir sahifasini o'qib pitonni yoqtirib bormoqdaman.
 > -- [Herbert Feutl](https://twitter.com/HerbertFeutl/status/11901471389913088)
 
 <!-- -->
