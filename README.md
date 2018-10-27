@@ -1,6 +1,6 @@
 # Pythonning bir bayti
 
-"Pythonning bir bayti" bu Python (oʻqilishi paytn) dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Python tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'lsangiz, demak bu kitob siz uchun.
+"Pythonning bir bayti" bu Python (_oʻqilishi paytn_) dasturlash tilidan foydalanish haqidagi bepul kitobdir. U boshlovchilar uchun Python tilidan darslik yoki qo'llanma sifatida xizmat qiladi. Agar siz kompyuterda matnli fayllarni saqlash haqida tushunchaga ega bo'lsangiz, demak bu kitob siz uchun.
 
 ## Python 3 talqini uchun
 
