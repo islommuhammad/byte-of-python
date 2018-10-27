@@ -6,11 +6,11 @@
 
 BU kitob sizni Pitonning 3 talqinidan foydalanishni o'rgatadi. Bundan tashqari bu kitobda Pitonning eskiroq va ko'proq foydalaniladigan 2-talqiniga msolashish uchun qo'llanma bo'ladi.
 
-## Who reads A Byte of Python? {#who-reads-bop}
+## Pitonning bir baytini kimlar o'qiydi? {#who-reads-bop}
 
-Here are what people are saying about the book:
+Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
-> This is the best beginner's tutorial I've ever seen! Thank you for your effort.
+> Bu men ko'rganlarim ichida boshlovchilar uchun eng yaxshi darslik! Harakatingiz uchun rahmat.
 > -- [Walt Michalik](mailto:wmich50@theramp.net)
 
 <!-- -->
