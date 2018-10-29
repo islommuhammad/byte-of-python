@@ -3,7 +3,7 @@
 * [Kirish](README.md)
 * [Bag'ishlov](dedication.md)
 * [Muqaddima](preface.md)
-* [Piton haqida](about_python.md)
+* [Python haqida](about_python.md)
 * [O'rnatish](installation.md)
 * [Birinchi qadamlar](first_steps.md)
 * [Asoslar](basics.md)
