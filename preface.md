@@ -12,7 +12,7 @@ Agar sizda boshqa dasturlash tillari bo'yicha tajribalar bo'lsa,  yoqtirgan tili
 
 ## Rasmiy Websayt
 
-The official website of the book is [sss] {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
+The official website of the book is {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
 
 ## Something To Think About
 
