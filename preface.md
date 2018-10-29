@@ -12,9 +12,9 @@ Agar sizda boshqa dasturlash tillari bo'yicha tajribalar bo'lsa,  yoqtirgan tili
 
 ## Rasmiy Websayt
 
-The official website of the book is {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
+[Kitobning rasmiy web sahifasi](https://python.swaroopch.com/)dan siz  kitobni onlayn o'qshingiz, ko'chirib olishingiz, kitobning qog'oz talqinini sotib olishingiz va menga o'z fikrlaringizni yozib yuborishingiz mumkin. 
 
-## Something To Think About
+## O'ylash uchun ba'zi narsalar
 
 > There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies; the other is to make it so complicated that there are no obvious deficiencies. -- C. A. R. Hoare
 
