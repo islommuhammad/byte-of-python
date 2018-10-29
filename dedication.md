@@ -4,5 +4,5 @@
 
 Juda sog'ingan do'stimiz va yo'lboshchimiz [Atul Chitnis](http://www.nextbigwhat.com/atul-chitnis-obituary-297/)ning porloq xotirasiga bag'ishlanadi.
 
-[Internetni yaratgan kashshoflar](http://www.ibiblio.org/pioneers/index.html)ga bag'ishlanadi.  Bu kitob birinchi marta 2003 yilda yozilgan.  It still remains popular, thanks to the nature of sharing knowledge on the Internet as envisioned by the pioneers.
+[Internetni yaratgan kashshoflar](http://www.ibiblio.org/pioneers/index.html)ga bag'ishlanadi.  Bu kitob birinchi marta 2003 yilda yozilgan. Ushbu kashshoflar ko'zda tutgan narsa, ya'ni internet orqali bilimlarni ulashish imkoniyati sababli, mazkur kitob hozirda ham mashhur bo'lib qolmoqda.
 
