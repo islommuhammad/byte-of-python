@@ -2,7 +2,7 @@
 
 Python ehtimol ham oddiy, ham qudratli bo'lgan kamdan kamdan dasturlash tillari sirasiga kiradi. Bu til boshlovchilar uchun ham mutaxassislar uchun ham va eng muhimi dasturlashdan rohatlanadiganlar uchun ham ajoyib tildir. Ushbu kitobning maqsadi bu ajoyib tilni o'rganishingizga yordam berish va qanday qilib  'Dasturiy muammolarga qarshi vosita' effekti bilan muammolarni tez va mashaqqatlarsiz bajarishni ko'rsatishdan iborat.
 
-## Who This Book Is For
+## Bu kitob kimlar uchun
 
 This book serves as a guide or tutorial to the Python programming language. It is mainly targeted at newbies. It is useful for experienced programmers as well.
 
