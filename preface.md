@@ -6,7 +6,7 @@ Python ehtimol ham oddiy, ham qudratli bo'lgan kamdan kamdan dasturlash tillari 
 
 Bu kitob boshlovchilar uchun Python tilidan darslik yoki qo'llanma sifatida xizmat qiladi. U asosan boshlovchilar uchun mo'ljallangan. U tajribli dasturchilar uchun ham foydali.
 
-The aim is that if all you know about computers is how to save text files, then you can learn Python from this book. If you have previous programming experience, then you can also learn Python from this book.
+Maqsad shuki, agar siz kompyuterda shunchaki matnli fayllarni saqlashni eplasangiz, demak siz Pythonni ushbu kitobdan o'rgana olasiz. Agar sizda dasturlash bo'yicha avvaldan tajribalar mavjud bo'lsa ham siz ushbu kitobdan Pythonni o'rganishingiz mumkin.
 
 If you do have previous programming experience, you will be interested in the differences between Python and your favorite programming language - I have highlighted many such differences. A little warning though, Python is soon going to become your favorite programming language!
 
