@@ -4,7 +4,7 @@ Python ehtimol ham oddiy, ham qudratli bo'lgan kamdan kamdan dasturlash tillari 
 
 ## Bu kitob kimlar uchun
 
-This book serves as a guide or tutorial to the Python programming language. It is mainly targeted at newbies. It is useful for experienced programmers as well.
+Bu kitob boshlovchilar uchun Python tilidan darslik yoki qo'llanma sifatida xizmat qiladi. U asosan boshlovchilar uchun mo'ljallangan. U tajribli dasturchilar uchun ham foydali.
 
 The aim is that if all you know about computers is how to save text files, then you can learn Python from this book. If you have previous programming experience, then you can also learn Python from this book.
 
