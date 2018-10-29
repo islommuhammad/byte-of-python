@@ -35,7 +35,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> Boshlovchilar uchun python bo'yicha perfect beginners guide for python, will give u key to unlock magical world of python
+> Boshlovchilar uchun python bo'yicha mukammal qo'llanma, u sizga pythonning sehrli dunyosini ochuvchi kalitni beradi.
 > -- [Dilip](https://twitter.com/Dili_mathilakam/status/220033783066411008)
 
 <!-- -->
