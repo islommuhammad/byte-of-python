@@ -10,7 +10,7 @@ Maqsad shuki, agar siz kompyuterda shunchaki matnli fayllarni saqlashni eplasang
 
 Agar sizda boshqa dasturlash tillari bo'yicha tajribalar bo'lsa, sizga yoqtirgan tilingiz va Python tili o'rtasidagi farqlar qiziq bo'ladi - men juda ko'p farqlarni ta'kidlab o'tganman. Birozgina ogohlantiraman, Python tez orada sizning yoqtirgan dasturlash tilingizga aylanadi.  
 
-## Official Website
+## Rasmiy Websayt
 
 The official website of the book is {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
 
