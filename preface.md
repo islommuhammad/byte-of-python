@@ -16,7 +16,7 @@ Agar sizda boshqa dasturlash tillari bo'yicha tajribalar bo'lsa,  yoqtirgan tili
 
 ## O'ylash uchun ba'zi narsalar
 
-> There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies; the other is to make it so complicated that there are no obvious deficiencies. -- C. A. R. Hoare
+> Dasturiy maxsulotni loyihalashning ikkita yo'li bor: birinchi yo'li bu uni shunday oddiy bajarish kerakki, unda  kamchiliklarni aniq qoldirmaslik kerak; ikkinchi yo'li uni shunday murakkab bajarish kerakki, unda aniq bir kamchilik qoldirmaslik kerak. -- C. A. R. Hoare
 
 <!-- -->
 
