@@ -20,4 +20,6 @@ Agar sizda boshqa dasturlash tillari bo'yicha tajribalar bo'lsa,  yoqtirgan tili
 
 <!-- -->
 
-> Success in life is a matter not so much of talent and opportunity as of concentration and perseverance. -- C. W. Wendte
+> Hayotda muvaffaqiyatga erishish - bu  iste'dod va imkoniyatlardan ko'ra ko'proq diqqatni to'plash va qat'iyatlilikdan iborat masaladir. -- C. W. Wendte
+
+
