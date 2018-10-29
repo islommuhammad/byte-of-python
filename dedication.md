@@ -6,3 +6,5 @@ Juda sog'ingan do'stimiz va yo'lboshchimiz [Atul Chitnis](http://www.nextbigwhat
 
 [Internetni yaratgan kashshoflar](http://www.ibiblio.org/pioneers/index.html)ga bag'ishlanadi.  Bu kitob birinchi marta 2003 yilda yozilgan. Ushbu kashshoflar ko'zda tutgan narsa, ya'ni internet orqali bilimlarni ulashish imkoniyati sababli, mazkur kitob hozirda ham mashhur bo'lib qolmoqda.
 
+
+
