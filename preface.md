@@ -8,7 +8,7 @@ Bu kitob boshlovchilar uchun Python tilidan darslik yoki qo'llanma sifatida xizm
 
 Maqsad shuki, agar siz kompyuterda shunchaki matnli fayllarni saqlashni eplasangiz, demak siz Pythonni ushbu kitobdan o'rgana olasiz. Agar sizda dasturlash bo'yicha avvaldan tajribalar mavjud bo'lsa ham siz ushbu kitobdan Pythonni o'rganishingiz mumkin.
 
-If you do have previous programming experience, you will be interested in the differences between Python and your favorite programming language - I have highlighted many such differences. A little warning though, Python is soon going to become your favorite programming language!
+Agar sizda boshqa dasturlash tillari bo'yicha tajribalar bo'lsa, sizga yoqtirgan tilingiz va Python tili o'rtasidagi farqlar qiziq bo'ladi - men juda ko'p farqlarni ta'kidlab o'tganman. Birozgina ogohlantiraman, Python tez orada sizning yoqtirgan dasturlash tilingizga aylanadi.  
 
 ## Official Website
 
