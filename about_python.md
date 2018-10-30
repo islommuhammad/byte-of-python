@@ -4,7 +4,7 @@ Python - ham _oddiy_, ham _qudratli_ bo'lgan noyob dasturlash tillari sirasiga k
 
 Pythonga rasmiy kirish:
 
-> Python - o'rganish uchun oson, qudratli dasturlash tilidir. U samarali yuqori pog'onali ma'lumotlar tuzilmasiga  va  ob'ektga yo'naltirilgan dasturlashga oddiy, lekin samarador yondashuvga ega. Pythonning oqilona sintaksisi va dinamik kod yozish imkoniyati, uning interpretatsiyalash xususiyati bilan birgalikda, uni ko'pgina platformalardagi bir qancha sohalarda   make it an ideal language for scripting and rapid application development in many areas on most platforms.
+> Python - o'rganish uchun oson, qudratli dasturlash tilidir. U samarali yuqori pog'onali ma'lumotlar tuzilmasiga  va  ob'ektga yo'naltirilgan dasturlashga oddiy, lekin samarador yondashuvga ega. Pythonning oqilona sintaksisi va dinamik kod yozish imkoniyati, uning interpretatsiyalash xususiyati bilan birgalikda,  ko'pgina platformalardagi bir qancha sohalarda uni skriptlash va ilovalarni tezkor yaratish\(RAD\) uchun ideal tilga aylantiradi.
 
 I will discuss most of these features in more detail in the next section.
 
