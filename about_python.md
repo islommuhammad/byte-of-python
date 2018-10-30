@@ -12,7 +12,7 @@ Bu imkoniyatlarning ko'pchiligini men keyingi bo'limlarda batafsil sharxlayman.
 
 Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Pythonning uchuvchi sirki" ko'rsatuvidan keyin nomlagan. U ovqatlanish uchun hayvonlarni o'zining uzun tanasi bilan o'rab, ularni bo'g'ib o'ldiradigan ilonlarni umuman yoqtirmaydi.
 
-## Features of Python
+## Pythonning imkoniyatlari
 
 ### Simple
 
