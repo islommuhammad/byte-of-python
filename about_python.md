@@ -14,7 +14,7 @@ Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Pyt
 
 ## Pythonning imkoniyatlari
 
-### Simple
+### Oddiylik
 
 Python is a simple and minimalistic language. Reading a good Python program feels almost like reading English, although very strict English! This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the solution to the problem rather than the language itself.
 
