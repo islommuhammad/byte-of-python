@@ -10,9 +10,7 @@ Bu imkoniyatlarning ko'pchiligini men keyingi bo'limlarda batafsil sharxlayman.
 
 ## Ism ortidagi hikoya
 
-Guido van Rossum, the creator of the Python language, named the language after the BBC show "Monty  
-Python's Flying Circus". He doesn't particularly like snakes that kill animals for food by winding  
-their long bodies around them and crushing them.
+Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Pythonning uchuvchi sirki" ko'rsatuvidan keyin nomlagan. U ovqatlanish uchun hayvonlarni o'zining uzun tanasi bilan o'rab, ularni bo'g'ib o'ldiradigan ilonlarni umuman yoqtirmaydi.
 
 ## Features of Python
 
