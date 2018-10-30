@@ -10,13 +10,13 @@ Bu imkoniyatlarning ko'pchiligini men keyingi bo'limlarda batafsil sharxlayman.
 
 ## Ism ortidagi hikoya
 
-Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Pythonning uchuvchi sirki" ko'rsatuvidan keyin nomlagan. U ovqatlanish uchun hayvonlarni o'zining uzun tanasi bilan o'rab, ularni bo'g'ib o'ldiradigan ilonlarni umuman yoqtirmaydi.
+Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Python'ning uchuvchi sirki" ko'rsatuvidan keyin nomlagan. U ovqatlanish uchun hayvonlarni o'zining uzun tanasi bilan o'rab, ularni bo'g'ib o'ldiradigan ilonlarni umuman yoqtirmaydi.
 
-## Pythonning imkoniyatlari
+## Python'ning imkoniyatlari
 
 ### Oddiylik
 
-Python is a simple and minimalistic language. Reading a good Python program feels almost like reading English, although very strict English! This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the solution to the problem rather than the language itself.
+Python - bu oddiy va minimalistik tildir. Pythoda yozilgan yaxshi dasturni o'qish deyarli ingliz tilini o'qishga o'xshaydi, xatto eng qat'iy ingliz tilini.  Python'ning bu psevdokod xususiyati uning eng katta kuchlaridan biridir. It allows you to concentrate on the solution to the problem rather than the language itself.
 
 ### Easy to Learn
 
