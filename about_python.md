@@ -1,6 +1,6 @@
 # About Python
 
-Python - ham _oddiy_, ham _qudratli_ bo'lgan noyob dasturlash tillari sirasiga kiradi.   You will find yourself pleasantly surprised to see how easy it is to concentrate on the solution to the problem rather than the syntax and structure of the language you are programming in.
+Python - ham _oddiy_, ham _qudratli_ bo'lgan noyob dasturlash tillari sirasiga kiradi.  You will find yourself pleasantly surprised to see how easy it is to concentrate on the solution to the problem rather than the syntax and structure of the language you are programming in.
 
 The official introduction to Python is:
 
