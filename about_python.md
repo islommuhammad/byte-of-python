@@ -28,11 +28,11 @@ Python tili  _FLOSS_ \(Free/Libré and Open Source Software ya'ni Erkin va ochiq
 
 ### Yuqori pogʻonadagi til
 
-Siz Python tilida dastur yozayotganingizda, xotirani bshqarish va boshqa quyi pogʻona tafsilotlari haqida tashvishlanmasangiz ham boʻladi. 
+Siz Python tilida dastur yozayotganingizda, xotirani bshqarish va boshqa quyi pogʻona tafsilotlari haqida tashvishlanmasangiz ham boʻladi.
 
 ### Portable
 
-Oʻzining ochiq kod xususiyati sababli, Python juda koʻp platformalardan joy oldi. Due to its open-source nature, Python has been ported to \(i.e. changed to make it work on\) many platforms. All your Python programs can work on any of these platforms without requiring any changes at all if you are careful enough to avoid any system-dependent features.
+Oʻzining ochiq kod xususiyati sababli, Python juda koʻp platformalardan joy oldi. Sizning Pythonʻda All your Python programs can work on any of these platforms without requiring any changes at all if you are careful enough to avoid any system-dependent features.
 
 You can use Python on GNU/Linux, Windows, FreeBSD, Macintosh, Solaris, OS/2, Amiga, AROS, AS/400, BeOS, OS/390, z/OS, Palm OS, QNX, VMS, Psion, Acorn RISC OS, VxWorks, PlayStation, Sharp Zaurus, Windows CE and PocketPC!
 
