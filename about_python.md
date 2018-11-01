@@ -32,9 +32,9 @@ Siz Python tilida dastur yozayotganingizda, xotirani bshqarish va boshqa quyi po
 
 ### Portable
 
-Oʻzining ochiq kod xususiyati sababli, Python juda koʻp platformalardan joy oldi. Sizning Pythonʻda All your Python programs can work on any of these platforms without requiring any changes at all if you are careful enough to avoid any system-dependent features.
+Oʻzining ochiq kod xususiyati sababli, Python juda koʻp platformalardan joy oldi. Agar tizimga bog'liq bo'lgan imkoniyatlar bo'lmasa sizning barcha python dasturlaringiz bu platformalarning barchasida hech qanday qo'shimcha o'zgartirishlarsiz  ishlashi mumkin.  
 
-You can use Python on GNU/Linux, Windows, FreeBSD, Macintosh, Solaris, OS/2, Amiga, AROS, AS/400, BeOS, OS/390, z/OS, Palm OS, QNX, VMS, Psion, Acorn RISC OS, VxWorks, PlayStation, Sharp Zaurus, Windows CE and PocketPC!
+SIz Python'dan GNU/Linux, Windows, FreeBSD, Macintosh, Solaris, OS/2, Amiga, AROS, AS/400, BeOS, OS/390, z/OS, Palm OS, QNX, VMS, Psion, Acorn RISC OS, VxWorks, PlayStation, Sharp Zaurus, Windows CE va PocketPC'larda foydalanishingiz mumkin!
 
 You can even use a platform like [Kivy](http://kivy.org) to create games for your computer _and_ for iPhone, iPad, and Android.
 
