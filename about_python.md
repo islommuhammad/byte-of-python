@@ -22,7 +22,7 @@ Python - bu oddiy va minimalistik tildir. Pythoda yozilgan yaxshi dasturni o'qis
 
 Python boshlash uchun juda oson ekanligiga o'zingiz guvoh bo'lasiz. Avval takidlaganimzdek,  Python juda ham oddiy sintaksga ega.
 
-### Free and Open Source
+### Bepul va ochiq kodli
 
 Python is an example of a _FLOSS_ \(Free/Libré and Open Source Software\). In simple terms, you can freely distribute copies of this software, read its source code, make changes to it, and use pieces of it in new free programs. FLOSS is based on the concept of a community which shares knowledge. This is one of the reasons why Python is so good - it has been created and is constantly improved by a community who just want to see a better Python.
 
