@@ -38,7 +38,7 @@ SIz Python'dan GNU/Linux, Windows, FreeBSD, Macintosh, Solaris, OS/2, Amiga, ARO
 
 Siz hatto [Kivy](https://kivy.org/) kabi platformalardan ham kompyuterlar, iPhone, iPad va Androidlar uchun o'yinlar yaratishda foydalnishingiz mumkin.
 
-### Interpretatsiya
+### Interpretatsiyalanadigan
 
 This requires a bit of explanation.
 
