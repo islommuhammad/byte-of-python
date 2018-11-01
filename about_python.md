@@ -1,4 +1,4 @@
-#  Python haqida
+# Python haqida
 
 Python - ham _oddiy_, ham _qudratli_ bo'lgan noyob dasturlash tillari sirasiga kiradi.  Siz dasturlash tilining sintaksisi va tuzilishini emas, balki muammoni yechimini qanchalik osonlik bilan topilishini ko'rib ajablanasiz.
 
@@ -16,7 +16,7 @@ Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Pyt
 
 ### Oddiylik
 
-Python - bu oddiy va minimalistik tildir. Pythoda yozilgan yaxshi dasturni o'qish deyarli ingliz tilini o'qishga o'xshaydi, xatto eng qat'iy ingliz tilini.  Python'ning bu psevdokod xususiyati uning eng katta kuchlaridan biridir. It allows you to concentrate on the solution to the problem rather than the language itself.
+Python - bu oddiy va minimalistik tildir. Pythoda yozilgan yaxshi dasturni o'qish deyarli ingliz tilini o'qishga o'xshaydi, xatto eng qat'iy ingliz tilini.  Python'ning bu psevdokod xususiyati uning eng katta kuchlaridan biridir. Bu sizga tilni o'zidan ko'ra masalani yechimini hal qilishga imkon beradi.
 
 ### Easy to Learn
 
