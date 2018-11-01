@@ -1,4 +1,4 @@
-# About Python
+#  Python haqida
 
 Python - ham _oddiy_, ham _qudratli_ bo'lgan noyob dasturlash tillari sirasiga kiradi.  Siz dasturlash tilining sintaksisi va tuzilishini emas, balki muammoni yechimini qanchalik osonlik bilan topilishini ko'rib ajablanasiz.
 
