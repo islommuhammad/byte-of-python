@@ -20,7 +20,7 @@ Python - bu oddiy va minimalistik tildir. Pythoda yozilgan yaxshi dasturni o'qis
 
 ### O'rganish uchun oson
 
-As you will see, Python is extremely easy to get started with. Python has an extraordinarily simple syntax, as already mentioned.
+Python boshlash uchun juda oson ekanligiga o'zingiz guvoh bo'lasiz. As you will see, Python is extremely easy to get started with. Python has an extraordinarily simple syntax, as already mentioned.
 
 ### Free and Open Source
 
