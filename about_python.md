@@ -30,7 +30,7 @@ Python tili  _FLOSS_ \(Free/Libré and Open Source Software ya'ni Erkin va ochiq
 
 Siz Python tilida dastur yozayotganingizda, xotirani bshqarish va boshqa quyi pogʻona tafsilotlari haqida tashvishlanmasangiz ham boʻladi.
 
-### Portable
+### Portativ
 
 Oʻzining ochiq kod xususiyati sababli, Python juda koʻp platformalardan joy oldi. Agar tizimga bog'liq bo'lgan imkoniyatlar bo'lmasa sizning barcha python dasturlaringiz bu platformalarning barchasida hech qanday qo'shimcha o'zgartirishlarsiz  ishlashi mumkin.
 
