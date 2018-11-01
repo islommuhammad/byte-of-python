@@ -36,7 +36,7 @@ Oʻzining ochiq kod xususiyati sababli, Python juda koʻp platformalardan joy ol
 
 SIz Python'dan GNU/Linux, Windows, FreeBSD, Macintosh, Solaris, OS/2, Amiga, AROS, AS/400, BeOS, OS/390, z/OS, Palm OS, QNX, VMS, Psion, Acorn RISC OS, VxWorks, PlayStation, Sharp Zaurus, Windows CE va PocketPC'larda foydalanishingiz mumkin!
 
-You can even use a platform like [Kivy](http://kivy.org) to create games for your computer _and_ for iPhone, iPad, and Android.
+Siz hatto Kivy kabi platformalardan ham kompyuterlar, iPhone, iPad va Androidlar uchun o'yinlar yaratishda foydalnishingiz mumkin.
 
 ### Interpreted
 
