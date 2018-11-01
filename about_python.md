@@ -24,7 +24,7 @@ Python boshlash uchun juda oson ekanligiga o'zingiz guvoh bo'lasiz. Avval takidl
 
 ### Erkin va ochiq kodli
 
-Python tili  _FLOSS_ \(Free/Libré and Open Source Software\). In simple terms, you can freely distribute copies of this software, read its source code, make changes to it, and use pieces of it in new free programs. FLOSS is based on the concept of a community which shares knowledge. This is one of the reasons why Python is so good - it has been created and is constantly improved by a community who just want to see a better Python.
+Python tili  _FLOSS_ \(Free/Libré and Open Source Software ya'ni Erkin va ochiq kodli dasturiy ta'minot\)ga misol bo'ladi. Oddiyroq aytganda siz dasturiy maxsulot nusxasini erkin tarqatishingiz, uning kodlarini o'qishingiz, unga o'zgartirish kiritishingiz, uning qismlaridan boshqa dasturiy maxsulot yaratishda foydalanishingiz mumkin.  FLOSS - bilimlarni ulashish jamiyati konseptsiyasiga asoslanadi.  Bu Pythonʻning kuchli tomonlaridan biridir, ya'ni   - u Python'ni yaxshilashga harakat qiladigan jamiyat tomonidan yaratilgan va doimiy rivojlantirib borilmoqda.
 
 ### High-level Language
 
