@@ -40,9 +40,9 @@ Siz hatto [Kivy](https://kivy.org/) kabi platformalardan ham kompyuterlar, iPhon
 
 ### Interpretatsiyalanadigan
 
-This requires a bit of explanation.
+Buni ozroq tushuntirishga to'g'ri keladi.
 
-A program written in a compiled language like C or C++ is converted from the source language i.e. C or C++ into a language that is spoken by your computer \(binary code i.e. 0s and 1s\) using a compiler with various flags and options. When you run the program, the linker/loader software copies the program from hard disk to memory and starts running it.
+C va C++ kabi kompilatsiyalanadigan dastur C yoki C++ tilidan kompyuter tushunadigan tilga \(binar kod ya'ni \)A program written in a compiled language like C or C++ is converted from the source language i.e. C or C++ into a language that is spoken by your computer \(binary code i.e. 0s and 1s\) using a compiler with various flags and options. When you run the program, the linker/loader software copies the program from hard disk to memory and starts running it.
 
 Python, on the other hand, does not need compilation to binary. You just _run_ the program directly from the source code. Internally, Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it. All this, actually, makes using Python much easier since you don't have to worry about compiling the program, making sure that the proper libraries are linked and loaded, etc. This also makes your Python programs much more portable, since you can just copy your Python program onto another computer and it just works!
 
