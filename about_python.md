@@ -44,7 +44,7 @@ Buni ozroq tushuntirishga to'g'ri keladi.
 
 C va C++ kabi kompilatsiyalanadigan dastur C yoki C++ tilidan kompyuter tushunadigan til \(binary kod ya'ni 0 va 1 \)ga komplyator yordamida turli xil bayroqlar va optsiyalar bilan konvertlanadi. Siz dasturni ishga tushirganingizda yuklovchi dastur dasturingizning nusxasini qattiq diskdan xotiraga ko'chiradi va ishga tushiradi.
 
-Boshqa tomondan, Python ikkilikka kompilyatsiya qilishni talab qilmaydi. Siz to'g'ridan-to'g'ri dasturni manba kodidan ishga tushirishingiz mumkin. You just _run_ the program directly from the source code. Internally, Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it. All this, actually, makes using Python much easier since you don't have to worry about compiling the program, making sure that the proper libraries are linked and loaded, etc. This also makes your Python programs much more portable, since you can just copy your Python program onto another computer and it just works!
+Boshqa tomondan, Python ikkilikka kompilyatsiya qilishni talab qilmaydi. Siz to'g'ridan-to'g'ri dasturni manba kodidan ishga tushirishingiz mumkin. Internally, Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it. All this, actually, makes using Python much easier since you don't have to worry about compiling the program, making sure that the proper libraries are linked and loaded, etc. This also makes your Python programs much more portable, since you can just copy your Python program onto another computer and it just works!
 
 ### Object Oriented
 
