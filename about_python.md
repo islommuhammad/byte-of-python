@@ -48,7 +48,7 @@ Boshqa tomondan, Python ikkilikka kompilyatsiya qilishni talab qilmaydi. Siz to'
 
 ### Ob'yektga yo'naltirilgan
 
-Python prosenduraga yo'naltirilgan dasturlashni ham ob'yektga yo'naltirilgan dasturlashni ham qo'llab-quvvatlaydi. Proseduraga yo'naltirilgan dasturlash tillarida dastur qayta foydalanish mumkin boʻlgan dastur boʻlaklari boʻlgan prosedura va funksiyalardan tashkil topadi.  Obʻyektga yoʻnaltirilgan dasturlash tillarida In _object-oriented_ languages, the program is built around objects which combine data and functionality. Python has a very powerful but simplistic way of doing OOP, especially when compared to big languages like C++ or Java.
+Python prosenduraga yo'naltirilgan dasturlashni ham ob'yektga yo'naltirilgan dasturlashni ham qo'llab-quvvatlaydi. Proseduraga yo'naltirilgan dasturlash tillarida dastur qayta foydalanish mumkin boʻlgan dastur boʻlaklari boʻlgan prosedura va funksiyalardan tashkil topadi.  Obʻyektga yoʻnaltirilgan dasturlash tillarida dasturlar maʻlumotlar va funksiyonallikni oʻzida mujassamlashtirgan obʻyektlardan tashkil topadi. Python has a very powerful but simplistic way of doing OOP, especially when compared to big languages like C++ or Java.
 
 ### Extensible
 
