@@ -66,7 +66,7 @@ Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org
 
 ### Xulosa
 
-Python, albatta, qiziqarli va kuchli tildir. Unda Python tilida dastularni ham qiziqarli ham oson yaratish uchun kerak bo'lgan bajarish va xususiyatlar kompinatsiyasiga ega.It has the right combination of performance and features that make writing programs in Python both fun and easy.
+Python, albatta, qiziqarli va kuchli tildir. Unda Python tilida dastularni ham qiziqarli ham oson yaratish uchun kerak bo'lgan bajarish va xususiyatlarning ajoyib kompinatsiyasiga ega.
 
 ## Python 3 versus 2
 
