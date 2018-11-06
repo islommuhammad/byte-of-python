@@ -60,7 +60,7 @@ Siz dastur foydalanuvchilariga skiptlash imkoniyatini berish uchun Pythonni  C/C
 
 ### Kengaytirilgan kutubxonalar
 
-Pythonning Standard kutubxonasi chindan ham ulkan.U sizga  doimiy ifodalar, dukumentatsiya generatorlari, qismiy testlash, oqimlar, ma'lumotlar bazalari, web brauzerlar, CGI, FTP, email, XML, XML-RPC, HTML, WAV fayllar, shifrlash, GUI \(graphical user interfaces - ya'ni foydalanuvchining grafik interfeysi\) va tizimga bog'liq boshqa narsalar ishtirokida turli xil ishlarni qilishga yordam beradi.  It can help you do various things involving regular expressions,documentation generation, unit testing, threading, databases, web browsers, CGI, FTP, email, XML, XML-RPC, HTML, WAV files, cryptography, GUI \(graphical user interfaces\), and other system-dependent stuff. Remember, all this is always available wherever Python is installed. This is called the _Batteries Included_ philosophy of Python.
+Pythonning Standard kutubxonasi chindan ham ulkan.U sizga  doimiy ifodalar, dukumentatsiya generatorlari, qismiy testlash, oqimlar, ma'lumotlar bazalari, web brauzerlar, CGI, FTP, email, XML, XML-RPC, HTML, WAV fayllar, shifrlash, GUI \(graphical user interfaces - ya'ni foydalanuvchining grafik interfeysi\) va tizimga bog'liq boshqa narsalar ishtirokida turli xil ishlarni qilishga yordam beradi.  Unutmangki, bularning barchasi python o'rnatilgan joyga allaqachon o'rnatilgan bo'ladi.  Bu Pythonning "Batteykalari qo'shib beriladi" nomli falsafasidir.
 
 Besides the standard library, there are various other high-quality libraries which you can find at the [Python Package Index](http://pypi.python.org/pypi).
 
