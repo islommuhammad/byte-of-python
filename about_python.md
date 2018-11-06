@@ -52,7 +52,7 @@ Python prosenduraga yo'naltirilgan dasturlashni ham ob'yektga yo'naltirilgan das
 
 ### Kengayuvchan
 
-Agar sizning dasturingizga juda tez ishga tushuvchi qism kerak bo'lsa yoki dastur algoritmning biror qismini birov ochishini xohlamasangiz dasturning o'sha qismini C yoki C++ dasturlash tilida yozib, so'ng uni  If you need a critical piece of code to run very fast or want to have some piece of algorithm not to be open, you can code that part of your program in C or C++ and then use it from your Python program.
+Agar sizning dasturingizga juda tez ishga tushuvchi qism kerak bo'lsa yoki dastur algoritmning biror qismini birov ochishini xohlamasangiz dasturning o'sha qismini C yoki C++ dasturlash tilida yozib, so'ng uni Python dasturingizda foydalanishingiz mumkin. If you need a critical piece of code to run very fast or want to have some piece of algorithm not to be open, you can code that part of your program in C or C++ and then use it from your Python program.
 
 ### Embeddable
 
