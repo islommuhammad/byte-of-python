@@ -54,9 +54,9 @@ Python prosenduraga yo'naltirilgan dasturlashni ham ob'yektga yo'naltirilgan das
 
 Agar sizning dasturingizga juda tez ishga tushuvchi qism kerak bo'lsa yoki dastur algoritmning biror qismini birov ochishini xohlamasangiz dasturning o'sha qismini C yoki C++ dasturlash tilida yozib, so'ng uni Python dasturingizda foydalanishingiz mumkin.
 
-### Embeddable
+### O'rnatiladigan
 
-You can embed Python within your C/C++ programs to give _scripting_ capabilities for your program's users.
+Siz dastur foydalanuvchilariga skiptlash imkoniyatini berish uchun Pythonni  C/C++ dastur ichiga o'rnatishingiz mumkin.  You can embed Python within your C/C++ programs to give _scripting_ capabilities for your program's users.
 
 ### Extensive Libraries
 
