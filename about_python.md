@@ -62,7 +62,7 @@ Siz dastur foydalanuvchilariga skiptlash imkoniyatini berish uchun Pythonni  C/C
 
 Pythonning Standard kutubxonasi chindan ham ulkan.U sizga  doimiy ifodalar, dukumentatsiya generatorlari, qismiy testlash, oqimlar, ma'lumotlar bazalari, web brauzerlar, CGI, FTP, email, XML, XML-RPC, HTML, WAV fayllar, shifrlash, GUI \(graphical user interfaces - ya'ni foydalanuvchining grafik interfeysi\) va tizimga bog'liq boshqa narsalar ishtirokida turli xil ishlarni qilishga yordam beradi.  Unutmangki, bularning barchasi python o'rnatilgan joyga allaqachon o'rnatilgan bo'ladi.  Bu Pythonning "Batteykalari qo'shib beriladi" nomli falsafasidir.
 
-Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org/pypi) topishingiz mumkin bo'lgan boshqa yuqori sifatli kutubxonalar ham mavjud. Besides the standard library, there are various other high-quality libraries which you can find at the [Python Package Index](http://pypi.python.org/pypi).
+Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org/pypi) topishingiz mumkin bo'lgan boshqa yuqori sifatli kutubxonalar ham mavjud.
 
 ### Summary
 
