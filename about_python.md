@@ -66,7 +66,7 @@ Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org
 
 ### Xulosa
 
-Python, albatta, qiziqarli va kuchli tildir.  It has the right combination of performance and features that make writing programs in Python both fun and easy.
+Python, albatta, qiziqarli va kuchli tildir. Unda Python tilida  It has the right combination of performance and features that make writing programs in Python both fun and easy.
 
 ## Python 3 versus 2
 
