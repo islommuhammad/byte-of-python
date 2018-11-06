@@ -66,7 +66,7 @@ Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org
 
 ### Xulosa
 
-Python is indeed an exciting and powerful language. It has the right combination of performance and features that make writing programs in Python both fun and easy.
+Python, albatta, qiziqarli va kuchli tildir.  It has the right combination of performance and features that make writing programs in Python both fun and easy.
 
 ## Python 3 versus 2
 
