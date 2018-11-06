@@ -70,7 +70,7 @@ Python, albatta, qiziqarli va kuchli tildir. Unda Python tilida dastularni ham q
 
 ## Python 3 versiyasi 2 versiyaga qarshi
 
-Agar sizga "Python 3 versiyasi" va "Python 2 versiyasi" o'rtasidagi  farqlar qiziq bo'lmasa, bu bo'limni o'tkazib yuborishingiz mumkin. You can ignore this section if you're not interested in the difference between "Python version 2" and "Python version 3". But please do be aware of which version you are using. This book is written for Python version 3.
+Agar sizga "Python 3 versiyasi" va "Python 2 versiyasi" o'rtasidagi  farqlar qiziq bo'lmasa, bu bo'limni o'tkazib yuborishingiz mumkin. Lekin iltimos, qaysi versiyadan foydalanayotganingizda xabardor bo'ling. Bu kitob Pythonning 3 versiyasi uchun yozilgan.
 
 Remember that once you have properly understood and learn to use one version, you can easily learn the differences and use the other one. The hard part is learning programming and understanding the basics of Python language itself. That is our goal in this book, and once you have achieved that goal, you can easily use Python 2 or Python 3 depending on your situation.
 
