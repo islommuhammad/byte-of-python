@@ -64,7 +64,7 @@ Pythonning Standard kutubxonasi chindan ham ulkan.U sizga  doimiy ifodalar, duku
 
 Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org/pypi) topishingiz mumkin bo'lgan boshqa yuqori sifatli kutubxonalar ham mavjud.
 
-### Summary
+### Xulosa
 
 Python is indeed an exciting and powerful language. It has the right combination of performance and features that make writing programs in Python both fun and easy.
 
