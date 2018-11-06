@@ -50,7 +50,7 @@ Boshqa tomondan, Python ikkilikka kompilyatsiya qilishni talab qilmaydi. Siz to'
 
 Python prosenduraga yo'naltirilgan dasturlashni ham ob'yektga yo'naltirilgan dasturlashni ham qo'llab-quvvatlaydi. Proseduraga yo'naltirilgan dasturlash tillarida dastur qayta foydalanish mumkin boʻlgan dastur boʻlaklari boʻlgan prosedura va funksiyalardan tashkil topadi.  Obʻyektga yoʻnaltirilgan dasturlash tillarida dasturlar maʻlumotlar va funksiyonallikni oʻzida mujassamlashtirgan obʻyektlardan tashkil topadi. Python tili OOPni qoʻllashda C++ yoki Java kabi katta tillar bilan solishtirganda juda qudratli va soddalashtirilgan uslubga ega.
 
-### Extensible
+### Kengayuvchan
 
 If you need a critical piece of code to run very fast or want to have some piece of algorithm not to be open, you can code that part of your program in C or C++ and then use it from your Python program.
 
