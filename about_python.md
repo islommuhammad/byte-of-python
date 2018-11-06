@@ -56,7 +56,7 @@ Agar sizning dasturingizga juda tez ishga tushuvchi qism kerak bo'lsa yoki dastu
 
 ### O'rnatiladigan
 
-Siz dastur foydalanuvchilariga skiptlash imkoniyatini berish uchun Pythonni  C/C++ dastur ichiga o'rnatishingiz mumkin.  You can embed Python within your C/C++ programs to give _scripting_ capabilities for your program's users.
+Siz dastur foydalanuvchilariga skiptlash imkoniyatini berish uchun Pythonni  C/C++ dastur ichiga o'rnatishingiz mumkin.
 
 ### Extensive Libraries
 
