@@ -46,7 +46,7 @@ C va C++ kabi kompilatsiyalanadigan dastur C yoki C++ tilidan kompyuter tushunad
 
 Boshqa tomondan, Python ikkilikka kompilyatsiya qilishni talab qilmaydi. Siz to'g'ridan-to'g'ri dasturni manba kodidan ishga tushirishingiz mumkin. Ichkarida esa Python  manba kodini baytkod deb nomlanadigan vositachi shaklga konvertlaydi va undan keyin uni kompyuter tushunadigan ikkilik kodga o'girib, ishga tushiradi. Aslida bularning barchasi Python yordamida ancha oson bajariladi, shuning uchun siz dasturni komplyatsiya qilinishini, to'g'ri kutubxona bog'lanib, yuklanganmi va boshqa narsalar haqida tashvishlanmasangiz ham bo'ladi. Bundan tashqari bu sizning Python dasturingizni ancha portativ \(ixcham\) qiladi, ya'ni siz dastuni shunchaki ko'chirib boshqa kompyuterda ishlatishingiz mumkin.
 
-### Object Oriented
+### Oby'ektga yo'naltirilgan
 
 Python supports procedure-oriented programming as well as object-oriented programming. In _procedure-oriented_ languages, the program is built around procedures or functions which are nothing but reusable pieces of programs. In _object-oriented_ languages, the program is built around objects which combine data and functionality. Python has a very powerful but simplistic way of doing OOP, especially when compared to big languages like C++ or Java.
 
