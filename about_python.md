@@ -68,7 +68,7 @@ Standart kutubxonadan tashqari, [Python Paket indeksidan](http://pypi.python.org
 
 Python, albatta, qiziqarli va kuchli tildir. Unda Python tilida dastularni ham qiziqarli ham oson yaratish uchun kerak bo'lgan bajarish va xususiyatlarning ajoyib kompinatsiyasiga ega.
 
-## Python 3 versus 2
+## Python 3, 2 ga qarshi
 
 You can ignore this section if you're not interested in the difference between "Python version 2" and "Python version 3". But please do be aware of which version you are using. This book is written for Python version 3.
 
