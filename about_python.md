@@ -58,7 +58,7 @@ Agar sizning dasturingizga juda tez ishga tushuvchi qism kerak bo'lsa yoki dastu
 
 Siz dastur foydalanuvchilariga skiptlash imkoniyatini berish uchun Pythonni  C/C++ dastur ichiga o'rnatishingiz mumkin.
 
-### Extensive Libraries
+### Kengaytirilgan kutubxonalar
 
 The Python Standard Library is huge indeed. It can help you do various things involving regular expressions,documentation generation, unit testing, threading, databases, web browsers, CGI, FTP, email, XML, XML-RPC, HTML, WAV files, cryptography, GUI \(graphical user interfaces\), and other system-dependent stuff. Remember, all this is always available wherever Python is installed. This is called the _Batteries Included_ philosophy of Python.
 
