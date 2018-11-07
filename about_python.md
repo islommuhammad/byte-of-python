@@ -81,7 +81,7 @@ Python 2 va Python 3 o'rtasidagi farqlarni batafsil bilish uchun quyidagilarni q
 * [Writing code that runs under both Python2 and 3](https://wiki.python.org/moin/PortingToPy3k/BilingualQuickRef)
 * [Supporting Python 3: An in-depth guide](http://python3porting.com)
 
-## What Programmers Say
+## Dasturchilar nima deyishadi
 
 You may find it interesting to read what great hackers like ESR have to say about Python:
 
