@@ -74,7 +74,7 @@ Agar sizga "Python 3 versiyasi" va "Python 2 versiyasi" o'rtasidagi  farqlar qiz
 
 Unutmangki, agar siz bir versiyani yaxshi tushunib, o'rganib olsangiz, boshqa versiyaning farqlarini va undan foydalanishni osongina o'rganib olasiz. Qiyin  tomoni bu Python asoslarining o'zida dasturlashni o'rganish va tushunishdir. Bu kitobdagi bizning maqsadimiz ham o'sha. Siz ushbu maqsadga  erishganingizdan keyin osongina vaziyatngizga qarab Python2 yoki Python 3 dan foydalanishingiz mumkin.
 
-For details on differences between Python 2 and Python 3, see:
+Python 2 va Python 3 o'rtasidagi farqlarni batafsil bilish uchun quyidagilarni qarab chiqing:
 
 * [The future of Python 2](http://lwn.net/Articles/547191/)
 * [Porting Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html)
