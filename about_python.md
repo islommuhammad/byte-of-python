@@ -81,7 +81,7 @@ Agar sizga "Python 3 versiyasi" va "Python 2 versiyasi" o'rtasidagi  farqlar qiz
 
 ## Dasturchilar nima deyishadi
 
-You may find it interesting to read what great hackers like ESR have to say about Python:
+Siz bu yerdan ESR kabi buyuk hakkerlar Pyhon haqidan nima deganligi haiqda o'qishingiz mumkin:
 
 * _Eric S. Raymond_ is the author of "The Cathedral and the Bazaar" and is also the person who coined the term _Open Source_. He says that [Python has become his favorite programming language](http://www.python.org/about/success/esr/). This article was the real inspiration for my first brush with Python.
 * _Bruce Eckel_ is the author of the famous 'Thinking in Java' and 'Thinking in C++' books. He says that no language has made him more productive than Python. He says that Python is perhaps the only language that focuses on making things easier for the programmer. Read the [complete interview](http://www.artima.com/intv/aboutme.html) for more details.
