@@ -74,7 +74,7 @@ Agar sizga "Python 3 versiyasi" va "Python 2 versiyasi" o'rtasidagi  farqlar qiz
 
 Python 2 va Python 3 o'rtasidagi farqlarni batafsil bilish uchun quyidagilarni qarab chiqing:
 
-* [The future of Python 2](http://lwn.net/Articles/547191/)
+* [The future of Python 2](http://lwn.net/Articles/547191/) \(Python 2 ning kelajagi\)
 * [Porting Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html)
 * [Writing code that runs under both Python2 and 3](https://wiki.python.org/moin/PortingToPy3k/BilingualQuickRef)
 * [Supporting Python 3: An in-depth guide](http://python3porting.com)
