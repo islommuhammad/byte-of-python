@@ -76,7 +76,7 @@ Python 2 va Python 3 o'rtasidagi farqlarni batafsil bilish uchun quyidagilarni q
 
 * [The future of Python 2](http://lwn.net/Articles/547191/) \(Python 2 ning kelajagi\)
 * [Porting Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html) \(Python 2 kodlarini Python 3 ga ko'chirish\)
-* [Writing code that runs under both Python2 and 3](https://wiki.python.org/moin/PortingToPy3k/BilingualQuickRef) \(Python 2 va Python 3 ning ikkalasida ham ishlovchi kod yozish\)
+* [Writing code that runs under both Python2 and 3](https://wiki.python.org/moin/PortingToPy3k/BilingualQuickRef) \(Python 2 va 3 ning ikkalasida ham ishlovchi kod yozish\)
 * [Supporting Python 3: An in-depth guide](http://python3porting.com) \(Python 3 ni qo'llab quvvatlash: Chuqurlashtirilgan yo'riqnoma\)
 
 ## Dasturchilar nima deyishadi
