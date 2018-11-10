@@ -16,7 +16,7 @@ Python tilining yaratuvchisi Guido van Rossum bu tilni BBC kanalidagi "Monty Pyt
 
 ### Oddiylik
 
-Python - bu oddiy va minimalistik tildir. Pythoda yozilgan yaxshi dasturni o'qish deyarli ingliz tilini o'qishga o'xshaydi, xatto eng qat'iy ingliz tilini.  Python'ning bu psevdokod xususiyati uning eng katta kuchlaridan biridir. Bu sizga tilni o'zidan ko'ra masalani yechimini hal qilishga imkon beradi.
+Python - bu oddiy va minimalistik tildir. Pythonda yozilgan yaxshi dasturni o'qish deyarli ingliz tilini o'qishga o'xshaydi, xatto eng qat'iy ingliz tilini.  Python'ning bu psevdokod xususiyati uning eng katta kuchlaridan biridir. Bu sizga tilni o'zidan ko'ra masalani yechimini hal qilishga imkon beradi.
 
 ### O'rganish uchun oson
 
