@@ -8,7 +8,7 @@ Oʻrnatish xuddi boshqa Windows dasturlarini oʻrnatishga oʻxshaydi.
 
 Shuni yodda tutingki, Widows verisyasi Vistaʻdan past boʻlsa, siz [faqat Python 3.4 ni koʻchirishingiz](https://www.python.org/downloads/windows/) kerak. 
 
-CAUTION: Make sure you check option `Add Python 3.5 to PATH`.
+OGOHLANTIRISH:  `Add Python 3.5 to PATH` optsiyasi belgilanganiga sihonch hosil qiling.
 
 To change install location, click on `Customize installation`, then `Next` and enter `C:\python35` (or another appropriate location) as the install location.
 
