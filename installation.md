@@ -3,9 +3,8 @@ Biz qachonki bu kitobda "Python 3" ga murojaat qilganimizda,[Python {{ book.pyth
 
 ## Windowsʻga oʻrnatish
 
-Visit https://www.python.org/downloads/ and download the latest version. At the time of this writing, it was Python 3.5.1 
-The installation is just like any other Windows-based software.
-
+ https://www.python.org/downloads/ tashrif buyuring va eng soʻngi versiyani koʻchirib oling. Kitob yozilgan vaqtda u 3,5,1 edi. 
+Oʻrnatish xuddi boshqa Windows dasturlarini oʻrnatishga oʻxshaydi. 
 Note that if your Windows version is pre-Vista, you should [download Python 3.4 only](https://www.python.org/downloads/windows/) as later versions require newer versions of Windows.
 
 CAUTION: Make sure you check option `Add Python 3.5 to PATH`.
