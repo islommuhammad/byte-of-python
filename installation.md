@@ -10,7 +10,7 @@ Shuni yodda tutingki, Widows verisyasi Vistaʻdan past boʻlsa, siz [faqat Pytho
 
 OGOHLANTIRISH:  `Add Python 3.5 to PATH` optsiyasi belgilanganiga ishonch hosil qiling.
 
-To change install location, click on `Customize installation`, then `Next` and enter `C:\python35` (or another appropriate location) as the install location.
+Oʻrnatish joyini oʻzgartirish uchun `Customize installation`ni bosing,keyin `Next` va oʻrnatilish joyi sifatida `C:\python35` (yoki boshqa kerakli joyni) kiriting
 
 If you didn�t check the `Add Python 3.5 PATH` option earlier, check `Add Python to environment variables`. This does the same thing as `Add Python 3.5 to PATH` on the first install screen.
 
