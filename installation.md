@@ -1,8 +1,7 @@
 # Oʻrnatish {#installation}
+Biz qachonki bu kitobda "Python 3" ga murojaat qilganimizda,[Python {{ book.pythonVersion }}](https://www.python.org/downloads/) ning ushbu versiyasiga teng yoki undan kattaroq versiyasiga murojaat qilamiz.
 
-When we refer to "Python 3" in this book, we will be referring to any version of Python equal to or greater than version [Python {{ book.pythonVersion }}](https://www.python.org/downloads/).
-
-## Installation on Windows
+## Windowsʻga oʻrnatish
 
 Visit https://www.python.org/downloads/ and download the latest version. At the time of this writing, it was Python 3.5.1 
 The installation is just like any other Windows-based software.
