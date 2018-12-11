@@ -40,7 +40,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> Men o'zimni "ishim"ni qilsihim kerak edi lekin men "Pythonning bir bayti"ni topib oldim. Ajoyib misollarga boy ajoyib qo'llanma. 
+> Men o'zimni "ishim"ni qilishim kerak edi lekin men "Pythonning bir bayti"ni topib oldim. Ajoyib misollarga boy ajoyib qo'llanma. 
 > -- [Biologist John](https://twitter.com/BiologistJohn/statuses/194726001803132928)
 
 <!-- -->
