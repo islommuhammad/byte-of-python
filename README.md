@@ -40,7 +40,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> I should be doing my actual "work" but just found "A Byte of Python". A great guide with great examples.
+> Men o'zimni "ishim"ni qilsihim kerak edi lekin men "Pythonning bir bayti"ni topib oldim. Ajoyib misollarga boy ajoyib qo'llanma. 
 > -- [Biologist John](https://twitter.com/BiologistJohn/statuses/194726001803132928)
 
 <!-- -->
