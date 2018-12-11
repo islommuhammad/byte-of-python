@@ -45,7 +45,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-> Recently started reading a Byte of python. Awesome work. And that too for free. Highly recommended for aspiring pythonistas.
+> Pythonning bir baytini endigina o'qishni boshladim. Ajoyib ish. Buning ustiga bepul. Hoxlovchi pythonchilarga juda ham tavsiya qilaman.
 > -- [Mangesh](https://twitter.com/mangeshnanoti/status/225680668867321857)
 
 <!-- -->
