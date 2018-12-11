@@ -50,7 +50,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 <!-- -->
 
-## Academic Courses
+## Akademik kurslar
 
 This book is/was being used as instructional material in various educational institutions:
 
