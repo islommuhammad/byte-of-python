@@ -64,7 +64,7 @@ Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatil
 - 'Multi Agent Semantik veb-tizimlari'  [Edinburg Universiteti](http://homepages.inf.ed.ac.uk/ewan/masws/) oʻquv kursi
 - 'Hisoblash fani va dasturlashga kirish'  [MIT Opencourseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/) oʻquv kursi
 - 'Dasturlash asoslari' Lyublyana universiteti, Ijtimoiy fanlar fakulteti oʻquv kursi.  Sloveniya -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) aytadiki,  _"Men (va mendan avvalgilar )  sizning ushbu kitobingizni bu kursda asosiy adabiyot sifatida foydalanmoqdamiz"_
--  'Dasturlashga kirish', Axborot fanlari kafedrasi , Zadar Universiteti, Xorvatiya -- Krešimir Zauder says _"I would like to inform you that A Byte of Python is a mandatory read at my course"_
+-  'Dasturlashga kirish', Axborot fanlari kafedrasi , Zadar Universiteti, Xorvatiya -- Krešimir Zauder aytadiki _"I would like to inform you that A Byte of Python is a mandatory read at my course"_
 
 ## License
 
