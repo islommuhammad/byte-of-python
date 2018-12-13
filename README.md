@@ -52,9 +52,9 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 
 ## Akademik kurslar
 
-This book is/was being used as instructional material in various educational institutions:
+Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatilib kelinmoqda:
 
-- 'Principles of Programming Languages' course at [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)
+- 'Dasturlash tillari tamoyillari '  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) o'quv kursi
 - 'Basic Concepts of Computing' course at [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
 - 'Programming With Python' course at [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
 - 'Introduction to Programming' course at [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
