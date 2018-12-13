@@ -55,7 +55,7 @@ Bu yerda odamlarning kitob haqidagi fikrlari keltirilgan:
 Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatilib kelinmoqda:
 
 - 'Dasturlash tillari tamoyillari '  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) o'quv kursi
-- 'Hisoblashning asosiy tushunchalari ' course at [Kaliforniya universiteti, Davis] (http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html) oʻquv kursi
+- 'Hisoblashning asosiy tushunchalari ' [Kaliforniya universiteti, Davis] (http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html) oʻquv kursi
 - 'Programming With Python' course at [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
 - 'Introduction to Programming' course at [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
 - 'Introduction to Application Programming' course at [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)
