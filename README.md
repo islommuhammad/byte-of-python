@@ -57,7 +57,7 @@ Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatil
 - 'Dasturlash tillari tamoyillari '  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) o'quv kursi
 - 'Hisoblashning asosiy tushunchalari ' [Kaliforniya universiteti, Davis] (http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html) oʻquv kursi
 - 'Python bilan dasturlash' [Harvard Universiteti](http://www.people.fas.harvard.edu/~preshman/python_winter.html) oʻquv kursi
-- 'Introduction to Programming' course at [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
+- 'Dasturlashga kirish' [Lids unvesiteti](http://www.comp.leeds.ac.uk/acom1900/) oʻquv kursi
 - 'Introduction to Application Programming' course at [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)
 - 'Information Technology Skills for Meteorology' course at [University of Oklahoma](http://gentry.metr.ou.edu/byteofpython/)
 - 'Geoprocessing' course at [Michigan State University](http://www.msu.edu/~ashton/classes/825/index.html)
