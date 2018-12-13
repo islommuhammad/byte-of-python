@@ -61,7 +61,7 @@ Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatil
 - 'Amaliy dasturlashga kirish' [Boston Universiteti](http://www.cs.bu.edu/courses/cs108/materials.html) oʻquv kursi
 - 'Meteorologiya uchun axborot texnologiyalari ko'nikmalari'  [Oklahoma Universiteti](http://gentry.metr.ou.edu/byteofpython/) oʻquv kursi
 - 'Geo qayta ishlash'  [Michigan Davlat Universiteti](http://www.msu.edu/~ashton/classes/825/index.html) oʻquv kursi
-- 'Multi Agent Semantic Web Systems' course at the [University of Edinburgh](http://homepages.inf.ed.ac.uk/ewan/masws/)
+- 'Multi Agent Semantik veb-tizimlari' course at the [Edinburg Universiteti](http://homepages.inf.ed.ac.uk/ewan/masws/) oʻquv kursi
 - 'Introduction to Computer Science and Programming' at [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
 - 'Basic programming at the Faculty of Social Sciences, University of Ljubljana, Slovenia' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) says _"I (and my predecessor) have been using your book as the main literature for this course"_
 -  'Introduction to programming', Department of Information Sciences, University of Zadar, Croatia -- Krešimir Zauder says _"I would like to inform you that A Byte of Python is a mandatory read at my course"_
