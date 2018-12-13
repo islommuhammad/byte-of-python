@@ -59,7 +59,7 @@ Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatil
 - 'Python bilan dasturlash' [Harvard Universiteti](http://www.people.fas.harvard.edu/~preshman/python_winter.html) oʻquv kursi
 - 'Dasturlashga kirish' [Lids unvesiteti](http://www.comp.leeds.ac.uk/acom1900/) oʻquv kursi
 - 'Amaliy dasturlashga kirish' [Boston Universiteti](http://www.cs.bu.edu/courses/cs108/materials.html) oʻquv kursi
-- 'Information Technology Skills for Meteorology' course at [University of Oklahoma](http://gentry.metr.ou.edu/byteofpython/)
+- 'Meteorologiya uchun axborot texnologiyalari ko'nikmalari'  [Oklahoma Universiteti](http://gentry.metr.ou.edu/byteofpython/) oʻquv kursi
 - 'Geoprocessing' course at [Michigan State University](http://www.msu.edu/~ashton/classes/825/index.html)
 - 'Multi Agent Semantic Web Systems' course at the [University of Edinburgh](http://homepages.inf.ed.ac.uk/ewan/masws/)
 - 'Introduction to Computer Science and Programming' at [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
