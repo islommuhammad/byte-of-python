@@ -66,7 +66,7 @@ Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatil
 - 'Dasturlash asoslari' Lyublyana universiteti, Ijtimoiy fanlar fakulteti oʻquv kursi.  Sloveniya -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) aytadiki,  _"Men (va mendan avvalgilar )  sizning ushbu kitobingizni bu kursda asosiy adabiyot sifatida foydalanmoqdamiz"_
 -  'Dasturlashga kirish', Axborot fanlari kafedrasi , Zadar Universiteti, Xorvatiya -- Krešimir Zauder aytadiki _"Pythonning bir bayti kitobi mening oʻquv kursimda oʻqilishi shart boʻlgan adabiyot sifatida kiritilganligini maʻlum qilishni xohlardim."_
 
-## License
+## Litsenziya
 
 This book is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
