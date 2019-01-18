@@ -68,15 +68,15 @@ Ushbu kitob turli ta'lim muassasalarida darslik sifatida ishlatilgan va ishlatil
 
 ## Litsenziya
 
-This book is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+ Bu kitob  [Creative Commons Attribution-ShareAlike 4.0 Xalqaro litsenziyasi](http://creativecommons.org/licenses/by-sa/4.0/) bo'yicha litsenziyalangan.
 
-This means:
+Bu degani:
 
-- You are free to Share i.e. to copy, distribute and transmit this book
-- You are free to Remix i.e. to make changes to this book (especially translations)
-- You are free to use it for commercial purposes
+- Siz bemalol bu kitobni ulashish ya'ni nusxalash, tarqatish va uzatish imkoniyatlariga egasiz.
+- Siz unga o'zgartirish kitishingiz mumkin (ayniqsa tarjimalariga).
+- Siz bu kitobni tijorat maqsadlarida foydalanishingiz mumkin. 
 
-Please note:
+Esda tuting:
 
 - Please do *not* sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are *not* from the original author of this book.
 - Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location.
