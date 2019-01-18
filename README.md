@@ -78,7 +78,7 @@ Bu degani:
 
 Esda tuting:
 
-- Please do *not* sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are *not* from the original author of this book.
+- Iltimos kitobning muallifi yozgan nusxasi emasligiga aniq va mutlaqo ishonch hosil qilmasdan kitobning elektron yoki qog'oz nusxalarini sotmang.
 - Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location.
 - All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted.
 
