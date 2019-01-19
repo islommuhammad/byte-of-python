@@ -79,27 +79,5 @@ Bu degani:
 Esda tuting:
 
 - Iltimos kitobning muallifi yozgan nusxasi emasligiga aniq va mutlaqo ishonch hosil qilmasdan kitobning elektron yoki qog'oz nusxalarini sotmang.
-- Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location.
-- All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted.
-
-## Read Now
-
-You can read it online at {{ book.officialUrl }}
-
-## Buy The Book
-
-A printed hardcopy of the book can be purchased at {{ book.buyBookUrl }} for your offline reading pleasure, and to support the continued development and improvement of this book.
-
-## Download
-
-Visit {{ book.downloadUrl }} for the following types of downloads:
-
-- [PDF (for desktop reading, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
-- [EPUB (for iPhone/iPad, ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
-- [Mobi (for Kindle)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
-
-Visit {{ book.sourceUrl }} for the raw content (for suggesting corrections, changes, translating, etc.)
-
-## Read the book in your native language
-
-If you are interested in reading or contributing translations of this book to other human languages, please see [Translations](./translations.md#translations).
+- Attributsiyalar kitobga kirish izohlarida va old sahifasida ko'rinadigan bo'lishi lozim va kitobning asl matnini olinish mumkin bo'lgan joyga havola aniq ko'rsatilishi kerak. 
+- Ushbu kitobda keltirilgan barcha kodlar/skriptlar boshqalari ko'rsatilmaguncha, [BSD litsenziyasining 3-bandi](http://www.opensource.org/licenses/bsd-license.php) ostida litsenziyalangan.
