@@ -6,7 +6,7 @@
 * [Python haqida](about_python.md)
 * [O'rnatish](installation.md)
 * [Birinchi qadamlar](first_steps.md)
-* [Asoslar](basics.md)
+* [Boshlang'ich tushunchalar](basics.md)
 * [Operatorlar va iboralar](op_exp.md)
 * [Boshqarish oqimi](control_flow.md)
 * [Funksiyalar](functions.md)
