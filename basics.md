@@ -1,6 +1,6 @@
 # Boshlang'ich tushunchalar
 
-Faqatgina `salom dunyo` deb chop qilish yetarli emas, shundaymi?Siz bundan ham ko'proq narsani qilishni xohlaysiz - ya'ni  ba'zi ma'lumotlarni kiritish, uni o'zgartirish va undan biror narsani olishni. Bunga erishish uchun biz konstantalar va o'zgaruvchilardan foydalanamiz va bu bobda shu kabi tushunchalarni o'rganamiz. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
+Faqatgina `salom dunyo` deb chop qilish yetarli emas, shundaymi?Siz bundan ham ko'proq narsani qilishni xohlaysiz - ya'ni  ba'zi ma'lumotlarni kiritish, uni o'zgartirish va undan biror narsani olishni. Bunga erishish uchun biz Python'da konstantalar va o'zgaruvchilardan foydalanamiz va bu bobda shu kabi tushunchalarni o'rganamiz. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
 
 ## Comments
 
