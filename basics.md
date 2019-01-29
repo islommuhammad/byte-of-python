@@ -1,6 +1,6 @@
 # Boshlang'ich tushunchalar
 
-Just printing `hello world` is not enough, is it? You want to do more than that - you want to take some input, manipulate it and get something out of it. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
+Faqatgina `salom dunyo` deb chop qilish yetarli emas, shundaymi?Siz bundan ham ko'proq narsani qilishni xohlaysiz - ya'ni  ba'zi ma'lumotlarni kiritish, uni o'zgartirish va undan biror narsani olishni. Bunga erishish uchun biz konstantalar va o'zgaruvchilardan foydalanamiz va bu bobda shu kabi tushunchalarni o'rganamiz. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
 
 ## Comments
 
