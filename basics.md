@@ -1,9 +1,9 @@
 # Boshlang'ich tushunchalar
 
 Faqatgina `salom dunyo` deb chop qilish yetarli emas, shundaymi?Siz bundan ham ko'proq narsani qilishni xohlaysiz - ya'ni  ba'zi ma'lumotlarni kiritish, uni o'zgartirish va undan biror narsani olishni. Bunga erishish uchun biz Python'da konstantalar va o'zgaruvchilardan foydalanamiz va bu bobda shu kabi tushunchalarni o'rganamiz.
-## Comments
+## Izohlar (Comments)
 
-_Comments_ are any text to the right of the `#` symbol and is mainly useful as notes for the reader of the program.
+_Izohlar_ `#` belgisidan keyin yoziladigan har qanday matn bo'lishi mumkin. Izoh dasturning kodini o'quvchi dasturchi uchun eslatma bo'lib xizmat qiladi. 
 
 For example:
 
