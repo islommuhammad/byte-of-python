@@ -5,28 +5,29 @@ Faqatgina `salom dunyo` deb chop qilish yetarli emas, shundaymi?Siz bundan ham k
 
 _Izohlar_ `#` belgisidan keyin yoziladigan har qanday matn bo'lishi mumkin. Izoh dasturning kodini o'quvchi dasturchi uchun eslatma bo'lib xizmat qiladi. 
 
-For example:
+Misol uchun:
 
 ```python
-print('hello world') # Note that print is a function
+print('salom dunyo') # print bu funksiya
 ```
 
-or:
+yoki:
 
 ```python
-# Note that print is a function
-print('hello world')
+# print bu funksiya
+
+print('salom dunyo')
 ```
 
-Use as many useful comments as you can in your program to:
+Siz dasturingiz ichida quyidagidek izohlardan foydalanishingiz mumkin:
 
-- explain assumptions
-- explain important decisions
-- explain important details
-- explain problems you're trying to solve
-- explain problems you're trying to overcome in your program, etc.
+- taxminlarni tushuntirish uchun
+- muhim qarorlarni tushuntirish uchun
+- muhim tafsilotlarni tushuntirish uchun
+- siz yechmoqchi bo'lgan muammolarni tushuntirish uchun
+- dasturda hal qilishga harakat qilayotgan muammolarni tushuntirish uchun, va hokazo.
 
-[*Code tells you how, comments should tell you why*](http://www.codinghorror.com/blog/2006/12/code-tells-you-how-comments-tell-you-why.html).
+[*Kod sizga qanday qilish kerak kerakligini, izoh esa nima uchun qilish kerakligini aytadi*](http://www.codinghorror.com/blog/2006/12/code-tells-you-how-comments-tell-you-why.html).
 
 This is useful for readers of your program so that they can easily understand what the program is doing. Remember, that person can be yourself after six months!
 
