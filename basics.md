@@ -29,11 +29,11 @@ Siz dasturingiz ichida quyidagidek izohlardan foydalanishingiz mumkin:
 
 [*Kod sizga qanday qilish kerak kerakligini, izoh esa nima uchun qilish kerakligini aytadi*](http://www.codinghorror.com/blog/2006/12/code-tells-you-how-comments-tell-you-why.html).
 
-This is useful for readers of your program so that they can easily understand what the program is doing. Remember, that person can be yourself after six months!
+Bu sizning dasturingizni o'quvchi kishi uchun foydalidir chunki u buni o'qib dastur nima ish qilayotganini osongina tushunadi. Shuni unutmangki bu kishi olti oydan keyin o'zingiz bo'lishi ham mumkin!
 
-## Literal Constants
+## Harfli o'zgarmaslar (Literal Constants)
 
-An example of a literal constant is a number like `5`, `1.23`, or a string like `'This is a string'` or `"It's a string!"`.
+Harfli o'zgarmaslarga raqamlar `5`, `1.23`, yoki satrlar `'Bu satr'` yoki `"Mana bu satr!"` misol bo'lishi mumkin.
 
 It is called a literal because it is _literal_ - you use its value literally. The number `2` always represents itself and nothing else - it is a _constant_ because its value cannot be changed. Hence, all these are referred to as literal constants.
 
