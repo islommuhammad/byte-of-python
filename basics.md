@@ -40,9 +40,7 @@ Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalana
 ## Sonlar
 
 Sonlar asosan ikki xil boʻladi - butun va haqiqiy sonlar.
-
-An example of an integer is `2` which is just a whole number.
-
+Butun songa misol qilib 2 sonini olishimiz mumkin.An example of an integer is `2` which is just a whole number.
 Examples of floating point numbers (or _floats_ for short) are `3.23` and `52.3E-4`. The `E` notation indicates powers of 10. In this case, `52.3E-4` means `52.3 * 10^-4^`.
 
 > **Note for Experienced Programmers**
