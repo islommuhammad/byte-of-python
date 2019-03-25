@@ -35,7 +35,7 @@ Bu sizning dasturingizni o'quvchi kishi uchun foydalidir chunki u buni o'qib das
 
 Literal (Harfiy) o'zgarmaslarga raqamlar `5`, `1.23`, yoki satrlar `'Bu satr'` yoki `"Mana bu satr!"` misol bo'lishi mumkin.
 
-Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalanayapsiz.  It is called a literal because it is _literal_ - you use its value literally. The number `2` always represents itself and nothing else - it is a _constant_ because its value cannot be changed. Hence, all these are referred to as literal constants.
+Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalanayapsiz.  It is called a literal because it is _literal_ - you use its value literally.  `2` raqami har doim oʻzini ifodalaydi u _konstantadir_ chunki uning qiymati oʻzgarmaydi.   Shuning uchun bularning hammasi literal oʻzgarmaslar sifatida eʻlon qilinadi.
 
 ## Numbers
 
