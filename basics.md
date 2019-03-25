@@ -39,7 +39,7 @@ Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalana
 
 ## Sonlar
 
-Numbers are mainly of two types - integers and floats.
+Sonlar asosan ikki xil boʻladi - butun va jaqiqiy sonlar.
 
 An example of an integer is `2` which is just a whole number.
 
