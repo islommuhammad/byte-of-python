@@ -35,7 +35,7 @@ Bu sizning dasturingizni o'quvchi kishi uchun foydalidir chunki u buni o'qib das
 
 Literal (Harfiy) o'zgarmaslarga raqamlar `5`, `1.23`, yoki satrlar `'Bu satr'` yoki `"Mana bu satr!"` misol bo'lishi mumkin.
 
-Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalanayapsiz.  `2` raqami har doim oʻzini ifodalaydi u _konstantadir_ chunki uning qiymati oʻzgarmaydi.   Shuning uchun bularning hammasi literal oʻzgarmaslar sifatida eʻlon qilinadi.
+Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalanayapsiz.`2` raqami har doim oʻzini ifodalaydi u _konstantadir_ chunki uning qiymati oʻzgarmaydi.   Shuning uchun bularning hammasi literal oʻzgarmaslar sifatida eʻlon qilinadi.
 
 ## Sonlar
 
