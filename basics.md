@@ -41,9 +41,9 @@ Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalana
 
 Sonlar asosan ikki xil boʻladi - butun va haqiqiy sonlar.
 Butun songa misol qilib `2` sonini olishimiz mumkin.
-Examples of floating point numbers (or _floats_ for short) are `3.23` and `52.3E-4`. The `E` notation indicates powers of 10. In this case, `52.3E-4` means `52.3 * 10^-4^`.
+Haqiqiy (suzuvchi nuqtali) sonlarga misol qilib  `3.23` va `52.3E-4`larni olishimiz mumkin.  `E` harfi 10 ning darajasini bildiradi. Bu yerda `52.3E-4` degani `52.3 * 10^-4^`ni anglatadi.
 
-> **Note for Experienced Programmers**
+> **Tajribali dasturchilardan eslatma**
 > 
 > There is no separate `long` type. The `int` type can be an integer of any size.
 
