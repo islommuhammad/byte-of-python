@@ -45,11 +45,11 @@ Haqiqiy (suzuvchi nuqtali) sonlarga misol qilib  `3.23` va `52.3E-4`larni olishi
 
 > **Tajribali dasturchilardan eslatma**
 > 
-> There is no separate `long` type. The `int` type can be an integer of any size.
+> Bu yerda `long` turi ajratilmaydi.  `int` turi har qanday oʻlcham uchun mos keladi.
 
-## Strings
+## Satrlar (Strings)
 
-A string is a _sequence_ of _characters_. Strings are basically just a bunch of words.
+Satr bu belgilar _ketma-ketligidir_.  Strings are basically just a bunch of words.
 
 You will be using strings in almost every Python program that you write, so pay attention to the following part.
 
