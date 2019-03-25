@@ -51,13 +51,13 @@ Haqiqiy (suzuvchi nuqtali) sonlarga misol qilib  `3.23` va `52.3E-4`larni olishi
 
 Satr bu belgilar _ketma-ketligidir_. Satrlar asosan so'zlar to'plamidir.
 
-You will be using strings in almost every Python program that you write, so pay attention to the following part.
+Siz deyarli barcha Python dasturlarda satrlardan foydalanasiz. Shuning uchun dastur yozayotganingizda quyidagi qismlarga diqqat qiling. 
 
-### Single Quote
+### Bittalik apastrof
 
-You can specify strings using single quotes such as `'Quote me on this'`.
+Siz satrlarni bittalik apostrof bilan ifodalashingiz mumkin. Misol uchun `'Mana shu kabi'`.
 
-All white space i.e. spaces and tabs, within the quotes, are preserved as-is.
+Matn ichidagi barcha bo'sh joylar, ya'ni tablar, probellar qanday bo'lsa xuddi shunday saqlanib qoladi.
 
 ### Double Quotes
 
