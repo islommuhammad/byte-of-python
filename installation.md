@@ -12,7 +12,7 @@ OGOHLANTIRISH:  `Add Python 3.5 to PATH` optsiyasi belgilanganiga ishonch hosil 
 
 Oʻrnatish joyini oʻzgartirish uchun `Customize installation`ni bosing,keyin `Next` va oʻrnatilish joyi sifatida `C:\python35` (yoki boshqa kerakli joyni) kiriting
 
-Agar siz oldindan `Add Python 3.5 PATH` optsiyasini belgilanmagan boʻlsangiz,  `Add Python to environment variables` belgilab qoʻying. This does the same thing as `Add Python 3.5 to PATH` on the first install screen.
+Agar siz oldindan `Add Python 3.5 PATH` optsiyasini belgilanmagan boʻlsangiz,  `Add Python to environment variables` belgilab qoʻying. Bu birinchi oʻrnatish oynasidagi  `Add Python 3.5 to PATH` bilan bir xil amal.
 
 You can choose to install Launcher for all users or not, it does not matter much. Launcher is used to switch between different versions of Python installed.
 
