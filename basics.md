@@ -39,7 +39,7 @@ Bu literal oʻzgarmasi deyiladi chunki siz uning qiymatidan harma harf foydalana
 
 ## Sonlar
 
-Sonlar asosan ikki xil boʻladi - butun va jaqiqiy sonlar.
+Sonlar asosan ikki xil boʻladi - butun va haqiqiy sonlar.
 
 An example of an integer is `2` which is just a whole number.
 
