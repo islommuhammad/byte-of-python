@@ -59,9 +59,9 @@ Siz satrlarni bittalik apostrof bilan ifodalashingiz mumkin. Misol uchun `'Mana 
 
 Matn ichidagi barcha bo'sh joylar, ya'ni tablar, probellar qanday bo'lsa xuddi shunday saqlanib qoladi.
 
-### Double Quotes
+### Ikkitalik apostrof (Double Quotes)
 
-Strings in double quotes work exactly the same way as strings in single quotes. An example is `"What's your name?"`.
+Ikkitalik apostrof ichidagi satrlar ham xuddi bittalik apostroflik satrlar bilan bir xil. Misol uchun,  `"Ismingiz nima?"`.
 
 ### Triple Quotes {#triple-quotes}
 
