@@ -49,7 +49,7 @@ Haqiqiy (suzuvchi nuqtali) sonlarga misol qilib  `3.23` va `52.3E-4`larni olishi
 
 ## Satrlar (Strings)
 
-Satr bu belgilar _ketma-ketligidir_. Strings are basically just a bunch of words.
+Satr bu belgilar _ketma-ketligidir_. Satrlar asosan so'zlar to'plamidir.
 
 You will be using strings in almost every Python program that you write, so pay attention to the following part.
 
