@@ -65,13 +65,13 @@ Ikkitalik apostrof ichidagi satrlar ham xuddi bittalik apostroflik satrlar bilan
 
 ### Uchtalik apostrof (Triple Quotes) {#triple-quotes}
 
-Siz ko'p qatorli satrlarni uchtalik apostrof bilan hosil qilishingiz mumkin.   - (`"""` yoki `'''`). You can use single quotes and double quotes freely within the triple quotes. An example is:
+Siz ko'p qatorli satrlarni uchtalik apostrof bilan hosil qilishingiz mumkin.   - (`"""` yoki `'''`). Siz bittalik va ikkitalik apostroflarni uchtalik apostrof ichida bemalol foydalanishingiz mumkin. Misol uchun:
 
 ```python
-'''This is a multi-line string. This is the first line.
-This is the second line.
-"What's your name?," I asked.
-He said "Bond, James Bond."
+'''Bu ko'p qatorli satr. Bu birinchi qator.
+Bu ikkinchi qator.
+"Ismingiz nima?," deb so'radim.
+"Bond, James Bond." dedi u.
 '''
 ```
 
