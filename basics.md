@@ -77,9 +77,7 @@ Bu ikkinchi qator.
 
 ### Satrlar o'zgarmasdir
 
-This means that once you have created a string, you cannot change it. Although this might seem like
-a bad thing, it really isn't. We will see why this is not a limitation in the various programs that
-we see later on.
+Bu degani siz satrni bir marta yaratganingizdan keyin uni o'zgartirolmaysiz. Bu yomon narsaga o'xshab tuyulsada aslida unday emas. Nima uchun bu cheklov emasligini biz keyinroq bir qancha dasturlarda ko'ramiz.
 
 > **Note for C/C++ Programmers**
 > 
