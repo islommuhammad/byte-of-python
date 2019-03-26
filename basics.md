@@ -65,7 +65,7 @@ Ikkitalik apostrof ichidagi satrlar ham xuddi bittalik apostroflik satrlar bilan
 
 ### Uchtalik apostrof (Triple Quotes) {#triple-quotes}
 
-Siz ko'p qatorli satrlarni uchtalik apostrof bilan hosil qilishingiz mumkin. You can specify multi-line strings using triple quotes - (`"""` or `'''`). You can use single quotes and double quotes freely within the triple quotes. An example is:
+Siz ko'p qatorli satrlarni uchtalik apostrof bilan hosil qilishingiz mumkin.   - (`"""` yoki `'''`). You can use single quotes and double quotes freely within the triple quotes. An example is:
 
 ```python
 '''This is a multi-line string. This is the first line.
