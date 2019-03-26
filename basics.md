@@ -77,7 +77,7 @@ Bu ikkinchi qator.
 
 ### Satrlar o'zgarmasdir
 
-Bu degani siz satrni bir marta yaratganingizdan keyin uni o'zgartirolmaysiz. Bu yomon narsaga o'xshab tuyulsada aslida unday emas. Nima uchun bu cheklov emasligini biz keyinroq bir qancha dasturlarda ko'ramiz.
+Bu degani siz satrni bir marta yaratganingizdan keyin uni o'zgartirolmaysiz. Bu yomon narsaga o'xshab tuyulsada aslida unday emas. Nima uchun bu cheklovlarga sabab bo'lmasligini biz keyinroq bir qancha dasturlarda ko'ramiz.
 
 > **Note for C/C++ Programmers**
 > 
