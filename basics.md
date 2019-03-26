@@ -81,7 +81,7 @@ Bu degani siz satrni bir marta yaratganingizdan keyin uni o'zgartirolmaysiz. Bu 
 
 > ** C/C++ dasturchilarga eslatma!**
 > 
-> Bu yerda  `char` turi ajratib o'tilmagan. Bunga ehtiyoj ham yoq va o'ylaymanki siz uni sog'inmaysiz.
+> Bu yerda  `char` turi ajratib o'tilmagan. Bunga ehtiyoj ham yo'q va o'ylaymanki siz uni sog'inmaysiz.
 
 <!-- -->
 
