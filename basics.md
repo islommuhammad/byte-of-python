@@ -63,9 +63,9 @@ Matn ichidagi barcha bo'sh joylar, ya'ni tablar, probellar qanday bo'lsa xuddi s
 
 Ikkitalik apostrof ichidagi satrlar ham xuddi bittalik apostroflik satrlar bilan bir xil. Misol uchun,  `"Ismingiz nima?"`.
 
-### Triple Quotes {#triple-quotes}
+### Uchtalik apostrof (Triple Quotes) {#triple-quotes}
 
-You can specify multi-line strings using triple quotes - (`"""` or `'''`). You can use single quotes and double quotes freely within the triple quotes. An example is:
+Siz ko'p qatorli satrlarni uchtalik apostrof bilan hosil qilishingiz mumkin. You can specify multi-line strings using triple quotes - (`"""` or `'''`). You can use single quotes and double quotes freely within the triple quotes. An example is:
 
 ```python
 '''This is a multi-line string. This is the first line.
