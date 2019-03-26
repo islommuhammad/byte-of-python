@@ -81,7 +81,7 @@ Bu degani siz satrni bir marta yaratganingizdan keyin uni o'zgartirolmaysiz. Bu 
 
 > ** C/C++ dasturchilarga eslatma!**
 > 
-> There is no separate `char` data type in Python. There is no real need for it and I am sure you won't miss it.
+> Bu yerda  `char` turi ajratib o'tilmagan. Bunga ehtiyoj ham yoq va o'ylaymanki siz uni sog'inmaysiz.
 
 <!-- -->
 
