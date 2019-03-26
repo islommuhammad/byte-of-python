@@ -75,7 +75,7 @@ Bu ikkinchi qator.
 '''
 ```
 
-### Strings Are Immutable
+### Satrlar o'zgarmasdir
 
 This means that once you have created a string, you cannot change it. Although this might seem like
 a bad thing, it really isn't. We will see why this is not a limitation in the various programs that
